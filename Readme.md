@@ -14,3 +14,9 @@ When you finish and ready for production just run
 npm run build-production
 </code>
 
+
+Also to run test use this script 
+
+<code>
+npm run test
+</code>
